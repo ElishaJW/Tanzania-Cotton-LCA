@@ -1,7 +1,7 @@
 # tz_cotton / python — model pipeline
 
-Spatially resolved LCA + Decent Living Standards assessment of the Tanzanian
-cotton value chain (BAMBOO WP4). Runs in the conda env **bw25-regional**
+Spatially explicit LCA + Decent Living Standards assessment of the Tanzanian
+cotton value chain. Runs in the conda env **bw25-regional**
 (see `environment.yml`).
 
 ## Pipeline (restructured 2026-09)
