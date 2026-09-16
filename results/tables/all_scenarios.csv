@@ -1,0 +1,49 @@
+scenario,category,score,unit,approach
+baseline,Land use occupation,1.8038201446742312e-05,PDF*m2*yr,OneSpatialScaleLCA + ecoregion CFs -> districts
+baseline,Water consumption,1.8747683803018887e-10,PDF*yr,OneSpatialScaleLCA + PCR-GLOBWB basin CFs -> districts
+baseline,FW eutrophication N,7.530357885351649e-10,PDF*yr,OneSpatialScaleLCA + 0.5 deg raster CFs -> districts
+baseline,FW eutrophication P,1.119193235203276e-09,PDF*yr,OneSpatialScaleLCA + 0.5 deg raster CFs -> districts
+baseline,Climate change rcp26,2.5393450173929955e-10,PDF*yr,bc.LCA + global NaturalEarth CFs
+baseline,FW ecotoxicity,5.2067198694733115e-06,PDF*yr,bc.LCA + USEtox 2.1 W6 Africa CFs (registered already in PDF*yr)
+baseline,Land use (site-generic),0.00012157323301271222,PDF*m2*yr,bc.LCA + site-generic CF
+baseline,Ratio regionalized/site-generic,0.14837313280017947,-,
+high_yield,Land use occupation,1.8041863734981005e-05,PDF*m2*yr,OneSpatialScaleLCA + ecoregion CFs -> districts
+high_yield,Water consumption,1.8747684256906294e-10,PDF*yr,OneSpatialScaleLCA + PCR-GLOBWB basin CFs -> districts
+high_yield,FW eutrophication N,2.9363749345757908e-09,PDF*yr,OneSpatialScaleLCA + 0.5 deg raster CFs -> districts
+high_yield,FW eutrophication P,4.364163048864473e-09,PDF*yr,OneSpatialScaleLCA + 0.5 deg raster CFs -> districts
+high_yield,Climate change rcp26,9.812509861980345e-10,PDF*yr,bc.LCA + global NaturalEarth CFs
+high_yield,FW ecotoxicity,1.9835435358327204e-05,PDF*yr,bc.LCA + USEtox 2.1 W6 Africa CFs (registered already in PDF*yr)
+high_yield,Land use (site-generic),0.00012675810578690762,PDF*m2*yr,bc.LCA + site-generic CF
+high_yield,Ratio regionalized/site-generic,0.14233301786089395,-,
+extensification,Land use occupation,7.03231130917894e-05,PDF*m2*yr,OneSpatialScaleLCA + ecoregion CFs -> districts
+extensification,Water consumption,1.8747684256906294e-10,PDF*yr,OneSpatialScaleLCA + PCR-GLOBWB basin CFs -> districts
+extensification,FW eutrophication N,2.9363749345757908e-09,PDF*yr,OneSpatialScaleLCA + 0.5 deg raster CFs -> districts
+extensification,FW eutrophication P,4.364163048864473e-09,PDF*yr,OneSpatialScaleLCA + 0.5 deg raster CFs -> districts
+extensification,Climate change rcp26,9.81759982794547e-10,PDF*yr,bc.LCA + global NaturalEarth CFs
+extensification,FW ecotoxicity,1.9874635745409018e-05,PDF*yr,bc.LCA + USEtox 2.1 W6 Africa CFs (registered already in PDF*yr)
+extensification,Land use (site-generic),0.00047390508670258586,PDF*m2*yr,bc.LCA + site-generic CF
+extensification,Ratio regionalized/site-generic,0.14839071169523635,-,
+organic_expansion,Land use occupation,1.8038201446742312e-05,PDF*m2*yr,OneSpatialScaleLCA + ecoregion CFs -> districts
+organic_expansion,Water consumption,1.8747683803018887e-10,PDF*yr,OneSpatialScaleLCA + PCR-GLOBWB basin CFs -> districts
+organic_expansion,FW eutrophication N,1.166465964333148e-09,PDF*yr,OneSpatialScaleLCA + 0.5 deg raster CFs -> districts
+organic_expansion,FW eutrophication P,2.2385121946852407e-09,PDF*yr,OneSpatialScaleLCA + 0.5 deg raster CFs -> districts
+organic_expansion,Climate change rcp26,2.5409441440015206e-10,PDF*yr,bc.LCA + global NaturalEarth CFs
+organic_expansion,FW ecotoxicity,5.180253445944569e-06,PDF*yr,bc.LCA + USEtox 2.1 W6 Africa CFs (registered already in PDF*yr)
+organic_expansion,Land use (site-generic),0.00012157309750234043,PDF*m2*yr,bc.LCA + site-generic CF
+organic_expansion,Ratio regionalized/site-generic,0.14837329818297224,-,
+manufacturing_expansion,Land use occupation,1.804837146549139e-05,PDF*m2*yr,OneSpatialScaleLCA + ecoregion CFs -> districts
+manufacturing_expansion,Water consumption,5.62430540814574e-10,PDF*yr,OneSpatialScaleLCA + PCR-GLOBWB basin CFs -> districts
+manufacturing_expansion,FW eutrophication N,7.530358124587692e-10,PDF*yr,OneSpatialScaleLCA + 0.5 deg raster CFs -> districts
+manufacturing_expansion,FW eutrophication P,1.1191932707595363e-09,PDF*yr,OneSpatialScaleLCA + 0.5 deg raster CFs -> districts
+manufacturing_expansion,Climate change rcp26,2.597480853848712e-10,PDF*yr,bc.LCA + global NaturalEarth CFs
+manufacturing_expansion,FW ecotoxicity,5.502202977268161e-06,PDF*yr,bc.LCA + USEtox 2.1 W6 Africa CFs (registered already in PDF*yr)
+manufacturing_expansion,Land use (site-generic),0.00012168050695675965,PDF*m2*yr,bc.LCA + site-generic CF
+manufacturing_expansion,Ratio regionalized/site-generic,0.14832590623496542,-,
+irrigation,Land use occupation,1.8039789019182738e-05,PDF*m2*yr,OneSpatialScaleLCA + ecoregion CFs -> districts
+irrigation,Water consumption,3.1882868175433166e-05,PDF*yr,OneSpatialScaleLCA + PCR-GLOBWB basin CFs -> districts
+irrigation,FW eutrophication N,7.530357425262647e-10,PDF*yr,OneSpatialScaleLCA + 0.5 deg raster CFs -> districts
+irrigation,FW eutrophication P,1.1191932121673112e-09,PDF*yr,OneSpatialScaleLCA + 0.5 deg raster CFs -> districts
+irrigation,Climate change rcp26,5.680316524464956e-10,PDF*yr,bc.LCA + global NaturalEarth CFs
+irrigation,FW ecotoxicity,1.1492429006115747e-05,PDF*yr,bc.LCA + USEtox 2.1 W6 Africa CFs (registered already in PDF*yr)
+irrigation,Land use (site-generic),0.00012381989113183602,PDF*m2*yr,bc.LCA + site-generic CF
+irrigation,Ratio regionalized/site-generic,0.14569378840734926,-,

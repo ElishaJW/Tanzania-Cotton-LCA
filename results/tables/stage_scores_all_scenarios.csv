@@ -1,0 +1,145 @@
+scenario,category,stage,score
+baseline,Land use occupation,Oil Milling,0.0
+baseline,Land use occupation,Cotton Farming,1.8027168722599763e-05
+baseline,Land use occupation,Lint Ginning,1.121740956671533e-09
+baseline,Land use occupation,Seed Ginning,1.9064928969813113e-09
+baseline,Land use occupation,Textile Mfg.,8.00449028889303e-09
+baseline,Water consumption,Oil Milling,4.498184194060494e-15
+baseline,Water consumption,Cotton Farming,0.0
+baseline,Water consumption,Lint Ginning,0.0
+baseline,Water consumption,Seed Ginning,0.0
+baseline,Water consumption,Textile Mfg.,1.874723398459948e-10
+baseline,FW eutrophication N,Oil Milling,0.0
+baseline,FW eutrophication N,Cotton Farming,7.530357885351649e-10
+baseline,FW eutrophication N,Lint Ginning,0.0
+baseline,FW eutrophication N,Seed Ginning,0.0
+baseline,FW eutrophication N,Textile Mfg.,0.0
+baseline,FW eutrophication P,Oil Milling,0.0
+baseline,FW eutrophication P,Cotton Farming,1.119193235203276e-09
+baseline,FW eutrophication P,Lint Ginning,0.0
+baseline,FW eutrophication P,Seed Ginning,0.0
+baseline,FW eutrophication P,Textile Mfg.,0.0
+baseline,Climate change rcp26,Cotton Farming,6.911474466608697e-13
+baseline,Climate change rcp26,Supply Chain (bg),2.5324335429263743e-10
+baseline,FW ecotoxicity,Cotton Farming,3.6292381100984284e-08
+baseline,FW ecotoxicity,Supply Chain (bg),5.170427488371903e-06
+high_yield,Land use occupation,Oil Milling,0.0
+high_yield,Land use occupation,Cotton Farming,1.802205661910298e-05
+high_yield,Land use occupation,Lint Ginning,4.3728572502704265e-09
+high_yield,Land use occupation,Seed Ginning,7.432037916113331e-09
+high_yield,Land use occupation,Textile Mfg.,8.002220711642773e-09
+high_yield,Water consumption,Oil Milling,1.7538922796076526e-14
+high_yield,Water consumption,Cotton Farming,0.0
+high_yield,Water consumption,Lint Ginning,0.0
+high_yield,Water consumption,Seed Ginning,0.0
+high_yield,Water consumption,Textile Mfg.,1.8745930364626686e-10
+high_yield,FW eutrophication N,Oil Milling,0.0
+high_yield,FW eutrophication N,Cotton Farming,2.9363749345757908e-09
+high_yield,FW eutrophication N,Lint Ginning,0.0
+high_yield,FW eutrophication N,Seed Ginning,0.0
+high_yield,FW eutrophication N,Textile Mfg.,0.0
+high_yield,FW eutrophication P,Oil Milling,0.0
+high_yield,FW eutrophication P,Cotton Farming,4.364163048864473e-09
+high_yield,FW eutrophication P,Lint Ginning,0.0
+high_yield,FW eutrophication P,Seed Ginning,0.0
+high_yield,FW eutrophication P,Textile Mfg.,0.0
+high_yield,Climate change rcp26,Cotton Farming,2.695048587821886e-12
+high_yield,Climate change rcp26,Supply Chain (bg),9.785559376102184e-10
+high_yield,FW ecotoxicity,Cotton Farming,1.4151789304503425e-07
+high_yield,FW ecotoxicity,Supply Chain (bg),1.969391746528049e-05
+extensification,Land use occupation,Oil Milling,0.0
+extensification,Land use occupation,Cotton Farming,7.030329797241658e-05
+extensification,Land use occupation,Lint Ginning,4.374624198092403e-09
+extensification,Land use occupation,Seed Ginning,7.43504099223888e-09
+extensification,Land use occupation,Textile Mfg.,8.005454182494476e-09
+extensification,Water consumption,Oil Milling,1.7538922796076526e-14
+extensification,Water consumption,Cotton Farming,0.0
+extensification,Water consumption,Lint Ginning,0.0
+extensification,Water consumption,Seed Ginning,0.0
+extensification,Water consumption,Textile Mfg.,1.8745930364626686e-10
+extensification,FW eutrophication N,Oil Milling,0.0
+extensification,FW eutrophication N,Cotton Farming,2.9363749345757908e-09
+extensification,FW eutrophication N,Lint Ginning,0.0
+extensification,FW eutrophication N,Seed Ginning,0.0
+extensification,FW eutrophication N,Textile Mfg.,0.0
+extensification,FW eutrophication P,Oil Milling,0.0
+extensification,FW eutrophication P,Cotton Farming,4.364163048864473e-09
+extensification,FW eutrophication P,Lint Ginning,0.0
+extensification,FW eutrophication P,Seed Ginning,0.0
+extensification,FW eutrophication P,Textile Mfg.,0.0
+extensification,Climate change rcp26,Cotton Farming,2.695048587821886e-12
+extensification,Climate change rcp26,Supply Chain (bg),9.790649342067223e-10
+extensification,FW ecotoxicity,Cotton Farming,1.4151789304503425e-07
+extensification,FW ecotoxicity,Supply Chain (bg),1.9733117852362423e-05
+organic_expansion,Land use occupation,Oil Milling,0.0
+organic_expansion,Land use occupation,Cotton Farming,1.8027168722599763e-05
+organic_expansion,Land use occupation,Lint Ginning,1.121740956671533e-09
+organic_expansion,Land use occupation,Seed Ginning,1.9064928969813113e-09
+organic_expansion,Land use occupation,Textile Mfg.,8.00449028889303e-09
+organic_expansion,Water consumption,Oil Milling,4.498184194060494e-15
+organic_expansion,Water consumption,Cotton Farming,0.0
+organic_expansion,Water consumption,Lint Ginning,0.0
+organic_expansion,Water consumption,Seed Ginning,0.0
+organic_expansion,Water consumption,Textile Mfg.,1.874723398459948e-10
+organic_expansion,FW eutrophication N,Oil Milling,0.0
+organic_expansion,FW eutrophication N,Cotton Farming,1.166465964333148e-09
+organic_expansion,FW eutrophication N,Lint Ginning,0.0
+organic_expansion,FW eutrophication N,Seed Ginning,0.0
+organic_expansion,FW eutrophication N,Textile Mfg.,0.0
+organic_expansion,FW eutrophication P,Oil Milling,0.0
+organic_expansion,FW eutrophication P,Cotton Farming,2.2385121946852407e-09
+organic_expansion,FW eutrophication P,Lint Ginning,0.0
+organic_expansion,FW eutrophication P,Seed Ginning,0.0
+organic_expansion,FW eutrophication P,Textile Mfg.,0.0
+organic_expansion,Climate change rcp26,Cotton Farming,8.881144506269153e-13
+organic_expansion,Climate change rcp26,Supply Chain (bg),2.53206299949526e-10
+organic_expansion,FW ecotoxicity,Cotton Farming,1.209760355806678e-08
+organic_expansion,FW ecotoxicity,Supply Chain (bg),5.168155842386103e-06
+manufacturing_expansion,Land use occupation,Oil Milling,0.0
+manufacturing_expansion,Land use occupation,Cotton Farming,1.8021338506025706e-05
+manufacturing_expansion,Land use occupation,Lint Ginning,1.1213781812683874e-09
+manufacturing_expansion,Land use occupation,Seed Ginning,1.905876302885266e-09
+manufacturing_expansion,Land use occupation,Textile Mfg.,2.400570498153175e-08
+manufacturing_expansion,Water consumption,Oil Milling,4.4982562615276904e-15
+manufacturing_expansion,Water consumption,Cotton Farming,0.0
+manufacturing_expansion,Water consumption,Lint Ginning,0.0
+manufacturing_expansion,Water consumption,Seed Ginning,0.0
+manufacturing_expansion,Water consumption,Textile Mfg.,5.624260425583125e-10
+manufacturing_expansion,FW eutrophication N,Oil Milling,0.0
+manufacturing_expansion,FW eutrophication N,Cotton Farming,7.530358124587692e-10
+manufacturing_expansion,FW eutrophication N,Lint Ginning,0.0
+manufacturing_expansion,FW eutrophication N,Seed Ginning,0.0
+manufacturing_expansion,FW eutrophication N,Textile Mfg.,0.0
+manufacturing_expansion,FW eutrophication P,Oil Milling,0.0
+manufacturing_expansion,FW eutrophication P,Cotton Farming,1.1191932707595363e-09
+manufacturing_expansion,FW eutrophication P,Lint Ginning,0.0
+manufacturing_expansion,FW eutrophication P,Seed Ginning,0.0
+manufacturing_expansion,FW eutrophication P,Textile Mfg.,0.0
+manufacturing_expansion,Climate change rcp26,Cotton Farming,6.911474686183097e-13
+manufacturing_expansion,Climate change rcp26,Supply Chain (bg),2.5905693791625325e-10
+manufacturing_expansion,FW ecotoxicity,Cotton Farming,3.629238225397676e-08
+manufacturing_expansion,FW ecotoxicity,Supply Chain (bg),5.4659105950138024e-06
+irrigation,Land use occupation,Oil Milling,0.0
+irrigation,Land use occupation,Cotton Farming,1.8024951633369595e-05
+irrigation,Land use occupation,Lint Ginning,2.5314566203484073e-09
+irrigation,Land use occupation,Seed Ginning,4.302423000214555e-09
+irrigation,Land use occupation,Textile Mfg.,8.003506192579768e-09
+irrigation,Water consumption,Oil Milling,1.1942035964644913e-12
+irrigation,Water consumption,Cotton Farming,3.1860815029786374e-05
+irrigation,Water consumption,Lint Ginning,0.0
+irrigation,Water consumption,Seed Ginning,0.0
+irrigation,Water consumption,Textile Mfg.,2.2051951443196942e-08
+irrigation,FW eutrophication N,Oil Milling,0.0
+irrigation,FW eutrophication N,Cotton Farming,7.530357425262647e-10
+irrigation,FW eutrophication N,Lint Ginning,0.0
+irrigation,FW eutrophication N,Seed Ginning,0.0
+irrigation,FW eutrophication N,Textile Mfg.,0.0
+irrigation,FW eutrophication P,Oil Milling,0.0
+irrigation,FW eutrophication P,Cotton Farming,1.1191932121673112e-09
+irrigation,FW eutrophication P,Lint Ginning,0.0
+irrigation,FW eutrophication P,Seed Ginning,0.0
+irrigation,FW eutrophication P,Textile Mfg.,0.0
+irrigation,Climate change rcp26,Cotton Farming,6.911474785182429e-13
+irrigation,Climate change rcp26,Supply Chain (bg),5.673405049679767e-10
+irrigation,FW ecotoxicity,Cotton Farming,3.6292381686904125e-08
+irrigation,FW ecotoxicity,Supply Chain (bg),1.1456136624427981e-05

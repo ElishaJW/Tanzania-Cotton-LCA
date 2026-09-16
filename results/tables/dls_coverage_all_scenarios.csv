@@ -1,0 +1,31 @@
+scenario,indicator,coverage
+baseline,Nutrition (kcal),0.0039912726758202935
+baseline,Nutrition (protein),0.005831612222343977
+baseline,Clothing,0.1697270850642928
+baseline,Farm income (living-income),0.19708062200956936
+baseline,Employment (rural labour),0.02086757426490453
+high_yield,Nutrition (kcal),0.015563500736877563
+high_yield,Nutrition (protein),0.022739689440281475
+high_yield,Clothing,0.1697270850642928
+high_yield,Farm income (living-income),0.7684928229665069
+high_yield,Employment (rural labour),0.07979364748760243
+extensification,Nutrition (kcal),0.015563500736877567
+extensification,Nutrition (protein),0.022739689440281475
+extensification,Clothing,0.1697270850642928
+extensification,Farm income (living-income),0.19708062200956936
+extensification,Employment (rural labour),0.07979360531309027
+organic_expansion,Nutrition (kcal),0.0039912726758202935
+organic_expansion,Nutrition (protein),0.005831612222343977
+organic_expansion,Clothing,0.1697270850642928
+organic_expansion,Farm income (living-income),0.2095623947368421
+organic_expansion,Employment (rural labour),0.02086757426490453
+manufacturing_expansion,Nutrition (kcal),0.0039912726758202935
+manufacturing_expansion,Nutrition (protein),0.005831612222343977
+manufacturing_expansion,Clothing,0.5091812551928784
+manufacturing_expansion,Farm income (living-income),0.19708062200956936
+manufacturing_expansion,Employment (rural labour),0.02195543233755086
+irrigation,Nutrition (kcal),0.009008297497630297
+irrigation,Nutrition (protein),0.01316194158017401
+irrigation,Clothing,0.1697270850642928
+irrigation,Farm income (living-income),0.500962875984689
+irrigation,Employment (rural labour),0.04641439558343168
