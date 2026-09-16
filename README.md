@@ -1,10 +1,10 @@
-# tz_cotton / python — model pipeline
+# tz_cotton — model framework
 
 Spatially explicit LCA + Decent Living Standards assessment of the Tanzanian
 cotton value chain. Runs in the conda env **bw25-regional**
 (see `environment.yml`).
 
-## Pipeline (restructured 2026-09)
+## Pipeline
 
 | step | notebook | needs | produces |
 |---|---|---|---|
@@ -41,15 +41,8 @@ when the `mc_*` tables are absent). Log: `results/pipeline_run.log`.
 
 ## Data
 
-Foreground data lives in `../data_inventory/cotton_industry_data.xlsx`
+Foreground data lives in `cotton_industry_data.xlsx`
 (Parameters = raw collected values with sources; Scenarios = per-scenario
 derived inputs mirrored as literals in `src/scenarios.py`; DLS_Parameters =
 needs.py parameters with sources; Pedigree/Uncertainty = the sigma_ln values
-in `src/inventory.py`). `parameters_metadata.ipynb` in the same folder builds
-the SI data-provenance figures. Spatial inputs are under `../data_spatial/`,
-raw TCB exports under `../data_raw/`.
-
-`attic/` holds superseded scripts and pre-restructure originals — safe to
-delete once the next full pipeline run has been verified.
-
-Full project guidance: `X:\Eli\projects\tz_cotton\CLAUDE.md`.
+in `src/inventory.py`).
